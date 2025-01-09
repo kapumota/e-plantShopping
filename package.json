@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "https://kapumota.github.io/CC-3S2/e-plantShopping",
+  "homepage": "https://kapumota.github.io/e-plantShopping",
 
   "scripts": {
     "dev": "vite",
